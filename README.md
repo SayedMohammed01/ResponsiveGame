@@ -1,1 +1,1 @@
-# ResponsiveGame
+# whack-a-mole
